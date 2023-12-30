@@ -1,4 +1,4 @@
-![Screenshot](screen.png)
+![Screenshot](screen2.png)
 
 
 # Getting Started with Create React App
