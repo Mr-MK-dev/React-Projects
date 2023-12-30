@@ -1,4 +1,4 @@
-![Screenshot](screen.md)
+![Screenshot](screen.png)
 
 
 # Getting Started with Create React App
